@@ -106,10 +106,10 @@
 
         </EncoderProfile>
 
-        <ImageEncoding quality="90" />
+        <ImageEncoding quality="98" />
         <ImageEncoding quality="80" />
         <ImageEncoding quality="70" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="25000000" />
 
     </CamcorderProfiles>
 
